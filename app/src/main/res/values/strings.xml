@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">Random</string>
+    <string name="app_name">Fudge</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main2">Fudge</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main3">Main3Activity</string>
+
+    <string name="title_activity_cuisines_fullscreen">CuisinesFullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
 </resources>
